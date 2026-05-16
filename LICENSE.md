@@ -1,4 +1,4 @@
-# 
+# advanced NFT Floor Sweeper for blur sniper bot | simulation-mode & collection-scanning is the best blur sniper bot, featuring simulation-mode and collection-scanning. Fast, smart,
 
 
 
